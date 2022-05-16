@@ -5,7 +5,7 @@ body{
 
 .top-banner{
     height: 700px;
-    background-image: url(/images/header-bg.png);
+    background-image: url(header-bg.png);
     background-size: 110%;
     background-repeat: no-repeat;
 }
@@ -59,7 +59,7 @@ h1, h2{
 
 .biography-area{
     height: 750px;
-    background-image: url(/images/biography-bg.png);
+    background-image: url(biography-bg.png);
     background-repeat: no-repeat;
     background-size: 140%;
 }
@@ -80,7 +80,7 @@ h1, h2{
 
 .latest-work-section{
     height: 500px;
-    background-image: url(/images/latest-work-bg.png);
+    background-image: url(latest-work-bg.png);
     background-repeat: no-repeat;
     background-size: 100%;
 }
@@ -96,7 +96,7 @@ h1, h2{
 }
 .footer-section{
     height: 580px;
-    background-image: url(/images/footer-bg.png);
+    background-image: url(footer-bg.png);
     background-size: 100%;
     background-repeat: no-repeat;
     text-align: center;
